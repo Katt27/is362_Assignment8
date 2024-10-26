@@ -51,9 +51,3 @@ The following visualizations were created:
 ## Conclusion
 
 This analysis provides insights into the Auto MPG dataset, highlighting the distribution of vehicle attributes and relationships between engine specifications and vehicle weight. The project demonstrates the use of data cleaning and visualization techniques in Python.
-
-## How to Use This Repository
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
